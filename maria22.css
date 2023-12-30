@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+} 
+
+.main-div{
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   
+    margin-left: 360px;
+    width: 500px;
+    height: 600px;
+  
+    
+
+}
+.child-1{
+
+    
+    height: 100px;
+    margin: 10px;
+    width: 60%;
+    background: black;
+    display: flex;
+   
+    justify-content: center;
+  
+  
+   
+    border: 2px solid black;
+}
+.child-2{
+
+    
+    height: 100px;
+    margin: 10px;
+    width: 60%;
+    background: black;
+    
+  
+  
+    border: 2px solid white;
+}
+
+
+.child-3{
+    width: 80%;
+    
+    height: 100px;
+    margin: 10px;
+    background: black;
+    display: flex;
+    justify-content: space-evenly;
+
+    
+ 
+    border: 2px solid white;
+    
+}
+.box{
+    background-color:black;
+    border: 2px solid white;
+    height: 50px;
+    margin: 10px;
+    width: 300px;
+    padding: 10px;
+   
+    
+}
